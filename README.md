@@ -1,2 +1,5 @@
-# stemkids-weather-balloon
-STEMKIDS project 676ad62e-10b1-4c29-92df-d6a02756e9d1 / a88b66b8-b162-4356-9bbf-54994ef02a27
+# Детски метеобалон
+
+Сензори, GNSS и LoRa телеметрия: от измерване на маса до планирана привързана демонстрация.
+
+[Проект, схеми, код и Wiki](projects/676ad62e-10b1-4c29-92df-d6a02756e9d1/README.md)
